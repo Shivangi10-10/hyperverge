@@ -124,6 +124,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 You can find the complete project documentation [here](https://github.com/Shivangi10-10/hyperverge/blob/main/HyperVerge%20Open%20Challenge%20Round%20-2024%20(2).pdf).
 
 
+## 📊 Project Statistics
+
+- **Issues Opened** ![Issues](https://img.shields.io/github/issues/Shivangi10-10/hyperverge)
+- **Pull Requests Open** ![Pull Requests](https://img.shields.io/github/issues-pr/Shivangi10-10/hyperverge)
+- **Stars** ![Stars](https://img.shields.io/github/stars/Shivangi10-10/hyperverge?style=social)
+- **Forks** ![Forks](https://img.shields.io/github/forks/Shivangi10-10/hyperverge?style=social)
+
+### 📈 Project Activity
+
+- **Last Commit** ![Last Commit](https://img.shields.io/github/last-commit/Shivangi10-10/hyperverge)
+- **License** ![License](https://img.shields.io/github/license/Shivangi10-10/hyperverge)
+
+
 ---
 
 <p align="center">
