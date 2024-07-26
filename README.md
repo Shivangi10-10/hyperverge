@@ -1,13 +1,15 @@
-# 🚀 HyperVerge Open Challenge 2024: Digital Notice Board Extension
+# 🚀 HyperVerge Open Challenge 2024: UpToDate
 
-![Project Banner](https://via.placeholder.com/1200x300?text=Digital+Notice+Board+Extension)
+![Project Banner](https://hyperverge.vercel.app/)
+
 
 ## 🌟 Team Innovators
 | Member | Contact |
 |--------|---------|
-| **Shivangi Suyash** | [![Phone](https://img.shields.io/badge/📞-9921103053-blue?style=flat-square)](tel:9921103053) |
-| **Mayank Gaurav** | [![Phone](https://img.shields.io/badge/📞-9921103046-blue?style=flat-square)](tel:9921103046) |
-| **Bhavya Srivastava** | [![Phone](https://img.shields.io/badge/📞-9921103089-blue?style=flat-square)](tel:9921103089) |
+| **Shivangi Suyash** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat-square)](https://www.linkedin.com/in/shivangi-suyash-05a484259/) |
+| **Mayank Gaurav**   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat-square)](https://www.linkedin.com/in/mayank-gaurav-3499211b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| **Bhavya Srivastava** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat-square)](https://www.linkedin.com/in/bhavya-srivastava-164bb6230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+
 
 ### 🏫 Institution
 **Jaypee Institute of Information Technology, Noida**
@@ -16,7 +18,7 @@
 
 ## 🎯 Project Overview
 
-Our Digital Notice Board Extension is not just another tool—it's a revolutionary workspace that fosters creativity, collaboration, and continuous learning within organizations. By seamlessly integrating various Google services and productivity tools, we've created a centralized hub that keeps employees engaged, informed, and productive.
+Our UpToDate Extension is not just another tool—it's a revolutionary workspace that fosters creativity, collaboration, and continuous learning within organizations. By seamlessly integrating various Google services and productivity tools, we've created a centralized hub that keeps employees engaged, informed, and productive.
 
 ### 🌈 Key Features
 - Real-time updates and announcements
@@ -74,12 +76,6 @@ Our extension addresses key organizational challenges:
 
 ---
 
-## 🎨 Design Inspiration
-
-- [Material Design](https://material.io/) for cohesive and modern UI
-- [Figma Community](https://www.figma.com/community) for collaborative design process
-- [Icons8](https://icons8.com/) for diverse and high-quality iconography
-
 ---
 
 ## 📸 Project Glimpses
@@ -91,7 +87,8 @@ Our extension addresses key organizational challenges:
 
 ## 🎥 See It in Action
 
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](https://example.com/demo-video)
+[![Hosted Link](https://img.shields.io/badge/Hosted_Link-red?style=for-the-badge&logo=youtube)](https://hyperverge.vercel.app/)
+
 
 ---
 
@@ -115,16 +112,16 @@ npm start
 
 ## 🤝 Contributing
 
-We welcome contributions! See our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started.
+We welcome contributions! 
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ---
 
 <p align="center">
-  Made with ❤️ by Team Innovators
+  Made with ❤️ by UpToDate
 </p>
