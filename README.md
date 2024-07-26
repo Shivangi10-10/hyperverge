@@ -1,4 +1,4 @@
-# 🚀 HyperVerge Open Challenge 2024: UpToDate
+# 🚀 HyperVerge Open Challenge 2024
 
 
 ## 🌟 Team UpToDate
