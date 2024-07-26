@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Documentation
 
-You can find the complete project documentation [here](https://github.com/Shivangi10-10/hyperverge/blob/main/HyperVerge%20Open%20Challenge%20Round%20-2024%20(1).pdf).
+You can find the complete project documentation [here](https://github.com/Shivangi10-10/hyperverge/blob/main/HyperVerge%20Open%20Challenge%20Round%20-2024%20(2).pdf).
 
 
 ---
