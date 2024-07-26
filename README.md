@@ -1,7 +1,5 @@
 # 🚀 HyperVerge Open Challenge 2024: UpToDate
 
-![Project Banner](https://hyperverge.vercel.app/)
-
 
 ## 🌟 Team Innovators
 | Member | Contact |
