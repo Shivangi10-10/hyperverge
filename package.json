@@ -1,0 +1,65 @@
+{
+  "name": "hyperverge",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "assert": "^2.1.0",
+    "autoprefixer": "^10.4.19",
+    "axios": "^1.7.2",
+    "browserify-zlib": "^0.2.0",
+    "cors": "^2.8.5",
+    "css": "^3.0.0",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "https-browserify": "^1.0.0",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4",
+    "postcss": "^8.4.40",
+    "react": "^18.3.1",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "^18.3.1",
+    "react-draggable": "^4.4.6",
+    "react-icons": "^5.2.1",
+    "react-scripts": "5.0.1",
+    "react-youtube": "^10.1.0",
+    "stream": "^0.0.3",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^3.4.7",
+    "url": "^0.11.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
