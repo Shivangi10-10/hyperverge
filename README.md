@@ -1,8 +1,8 @@
 # 🚀 HyperVerge Open Challenge 2024
 
 
-## 🌟 Team UpToDate
-| Member | Contact |
+## 🌟 Meet The Team UpToDate
+| Member | Profile |
 |--------|---------|
 | **Shivangi Suyash** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat-square)](https://www.linkedin.com/in/shivangi-suyash-05a484259/) |
 | **Mayank Gaurav**   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat-square)](https://www.linkedin.com/in/mayank-gaurav-3499211b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
