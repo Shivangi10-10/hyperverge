@@ -118,6 +118,11 @@ We welcome contributions!
 
 This project is licensed under the MIT License.
 
+## Documentation
+
+You can find the complete project documentation [here](https://github.com/Shivangi10-10/hyperverge/blob/main/HyperVerge%20Open%20Challenge%20Round%20-2024%20(1).pdf).
+
+
 ---
 
 <p align="center">
