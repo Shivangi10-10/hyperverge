@@ -27,7 +27,7 @@
                     },
                     {
                         headers: {
-                            'Authorization': `Bearer sk-proj-rTuIPxuzyX4Ot409P0CQT3BlbkFJNrNWcWdpSN2iEt7fpett`, 
+                            'Authorization': `Bearer <your_key>`, 
                             'Content-Type': 'application/json',
                         },
                     }
