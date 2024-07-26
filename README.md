@@ -1,7 +1,7 @@
 # 🚀 HyperVerge Open Challenge 2024: UpToDate
 
 
-## 🌟 Team Innovators
+## 🌟 Team UpToDate
 | Member | Contact |
 |--------|---------|
 | **Shivangi Suyash** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat-square)](https://www.linkedin.com/in/shivangi-suyash-05a484259/) |
