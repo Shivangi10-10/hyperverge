@@ -85,7 +85,7 @@ Our extension addresses key organizational challenges:
 
 ## 🎥 See It in Action
 
-[![Hosted Link](https://img.shields.io/badge/Hosted_Link-red?style=for-the-badge&logo=youtube)](https://hyperverge.vercel.app/)
+[![Hosted Link](https://img.shields.io/badge/Hosted_Link-red?style=for-the-badge&logo=link)](https://hyperverge.vercel.app/)
 
 
 ---
