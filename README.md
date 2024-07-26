@@ -16,7 +16,7 @@
 
 ## 🎯 Project Overview
 
-Our UpToDate Extension is not just another tool—it's a revolutionary workspace that fosters creativity, collaboration, and continuous learning within organizations. By seamlessly integrating various Google services and productivity tools, we've created a centralized hub that keeps employees engaged, informed, and productive.
+Our project is not just another tool—it's a revolutionary workspace that fosters creativity, collaboration, and continuous learning within organizations. By seamlessly integrating various Google services and productivity tools, we've created a centralized hub that keeps employees engaged, informed, and productive.
 
 ### 🌈 Key Features
 - Real-time updates and announcements
