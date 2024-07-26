@@ -1,10 +1,8 @@
 # HyperVerge Open Challenge Round - 2024
 <!-- Replace with your logo link -->
 
-## Team Name
-**UpToDate**
 
-## Team Members
+## Team Name
 - **Shivangi Suyash** - [9921103053](tel:9921103053)
 - **Mayank Gaurav** - [9921103046](tel:9921103046)
 - **Bhavya Srivastava** - [9921103089](tel:9921103089)
