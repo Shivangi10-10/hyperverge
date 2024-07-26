@@ -1,0 +1,76 @@
+.music-card {
+    position: relative;
+    background: linear-gradient(135deg, #000000 0%, #2E2E2E 100%);
+    border-radius: 20px;
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.music-icon {
+    font-size: 60px;
+    color: white;
+    margin-top: 20px;
+}
+
+.music-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.music-controls {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.music-controls button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.play-button {
+    background: white;
+    color: #000000;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.music-link {
+    background: white;
+    color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.music-link:hover {
+    background: #f0f0f0;
+}

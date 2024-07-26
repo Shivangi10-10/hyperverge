@@ -1,0 +1,55 @@
+.google-form-card {
+    position: relative;
+    background: linear-gradient(135deg, #000000 0%, #2E2E2E 100%);
+    border-radius: 20px;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    color: white;
+    overflow: hidden;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.google-form-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.google-form-icon {
+    font-size: 30px;
+    color: #4285F4; /* Google Blue */
+    margin-right: 10px;
+}
+
+.google-form-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.google-form-container {
+    flex-grow: 1;
+    border-radius: 10px;
+    overflow: hidden;
+    background: white;
+}
+
+.google-form-iframe {
+    border: none;
+    width: 100%;
+    height: 100%;
+}

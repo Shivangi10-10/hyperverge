@@ -1,0 +1,122 @@
+.dailygoal-card {
+    position: relative;
+    background: linear-gradient(135deg, #000000 0%, #2E2E2E 100%);
+    border-radius: 20px;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: black;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.dailygoal-icon {
+    font-size: 60px;
+    color: white;
+    margin-top: 20px;
+}
+
+.dailygoal-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.input-group {
+    display: flex;
+    margin-bottom: 1rem;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.dailygoal-input {
+    flex-grow: 1;
+    border: 1px solid #d1d5db;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    outline: none;
+}
+
+.dailygoal-input:focus {
+    border-color: #3b82f6;
+}
+
+.dailygoal-button {
+    background-color: white;
+    color: black;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-left: 10px;
+}
+
+
+.dailygoal-list {
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    flex-grow: 1;
+    overflow-y: auto;
+}
+
+.dailygoal-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 1px solid #d1d5db;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+}
+
+.dailygoal-item-content {
+    display: flex;
+    align-items: center;
+}
+
+.dailygoal-checkbox {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.dailygoal-text {
+    color: #374151;
+}
+
+.dailygoal-text.completed {
+    text-decoration: line-through;
+    color: #9ca3af;
+}
+
+.dailygoal-remove-button {
+    background: none;
+    border: none;
+    color: #ef4444;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.dailygoal-remove-button:hover {
+    color: #dc2626;
+}
+
+.dailygoal-progress {
+    color: #374151;
+    margin-top: 1rem;
+}

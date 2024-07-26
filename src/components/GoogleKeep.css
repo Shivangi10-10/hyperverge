@@ -1,0 +1,84 @@
+.google-keep-card {
+    position: relative;
+    background: linear-gradient(135deg, #000000 0%, #2E2E2E 100%);
+    border-radius: 20px;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.keep-icon {
+    font-size: 60px;
+    color: white;
+    margin-top: 20px;
+}
+
+.keep-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.keep-note {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    padding: 15px;
+    width: 90%;
+    height: 200px;
+    overflow-y: auto;
+}
+
+.note-title {
+    color: #4ba0f5;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.note-content {
+    color: #333;
+    font-size: 14px;
+}
+
+.keep-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.keep-button {
+    background: white;
+    color: #4ba0f5;
+    padding: 8px 16px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    transition: background-color 0.3s, color 0.3s;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.keep-button:hover {
+    background: #4ba0f5;
+    color: white;
+}
+
+.create-note-button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}

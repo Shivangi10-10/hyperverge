@@ -1,0 +1,92 @@
+.opportunity-card {
+    position: relative;
+    background: linear-gradient(135deg, #000000 0%, #2E2E2E 100%);
+    border-radius: 20px;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    color: white;
+    overflow: hidden;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.opportunity-icon {
+    font-size: 40px;
+    color: white;
+    margin-top: 10px;
+}
+
+.opportunity-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.add-opportunity-button {
+    background: white;
+    color: black;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    margin-bottom: 10px;
+}
+
+.add-opportunity-button:hover {
+    background: #f0f0f0;
+}
+
+.opportunity-list {
+    width: 100%;
+    overflow-y: auto;
+    flex-grow: 1;
+    padding-right: 5px;
+}
+
+.opportunity-item {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding: 5px 8px;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+
+.no-opportunities {
+    color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    font-size: 12px;
+}
+
+/* Scrollbar styles */
+.opportunity-list::-webkit-scrollbar {
+    width: 4px;
+}
+
+.opportunity-list::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+}
+
+.opportunity-list::-webkit-scrollbar-track {
+    background: transparent;
+}

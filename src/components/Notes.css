@@ -1,0 +1,111 @@
+.notes-card {
+  position: relative;
+  background: linear-gradient(135deg, #000000 0%, #2E2E2E 100%);
+  border-radius: 20px;
+  padding: 20px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.notes-icon {
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.notes-title {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.notes-input {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.notes-textarea {
+  flex-grow: 1;
+  height: 25px;
+  border-radius: 12px;
+  border: none;
+  padding: 4px 8px;
+  font-size: 0.8rem;
+  background: rgba(255, 255, 255, 0.8);
+  resize: none;
+}
+
+.add-note-button {
+  background: white;
+  color: #4ba0f5;
+  border: none;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5px;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.notes-list {
+  overflow-y: auto;
+  flex-grow: 1;
+  padding-right: 5px;
+}
+
+.note-item {
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 8px;
+  padding: 4px 8px;
+  margin-bottom: 4px;
+  font-size: 0.7rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.note-text {
+  flex-grow: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.note-actions {
+  display: flex;
+  gap: 4px;
+}
+
+.toggle-button,
+.delete-button {
+  background: none;
+  border: none;
+  color: #4ba0f5;
+  cursor: pointer;
+  font-size: 0.7rem;
+  padding: 2px;
+}
+
+/* Scrollbar styles */
+.notes-list::-webkit-scrollbar {
+  width: 4px;
+}
+
+.notes-list::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+}
+
+.notes-list::-webkit-scrollbar-track {
+  background: transparent;
+}

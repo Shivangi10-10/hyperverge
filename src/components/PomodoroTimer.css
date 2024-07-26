@@ -1,0 +1,142 @@
+.pomodoro-timer {
+    position: relative;
+    background: linear-gradient(135deg, #000000 0%, #2E2E2E 100%);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 20px;
+    border-radius: 1rem;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    animation: fadeIn 0.5s ease-in;
+}
+
+.handle {
+    cursor: move;
+    background-color: #333;
+    height: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.close-button:hover {
+    color: #ff0000;
+}
+
+.timer-icon {
+    font-size: 60px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.title {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.timer-display {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.timer-text {
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.start-button {
+    background-color: #22c55e; /* Tailwind green-500 */
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.start-button:hover {
+    background-color: #16a34a; /* Tailwind green-600 */
+}
+
+.reset-button {
+    background-color: #ef4444; /* Tailwind red-500 */
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-left: 1rem;
+}
+
+.reset-button:hover {
+    background-color: #dc2626; /* Tailwind red-600 */
+}
+
+.controls {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.short-break-button {
+    background-color: #3b82f6; /* Tailwind blue-500 */
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-right: 1rem;
+}
+
+.short-break-button:hover {
+    background-color: #2563eb; /* Tailwind blue-600 */
+}
+
+.long-break-button {
+    background-color: #a855f7; /* Tailwind purple-500 */
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.long-break-button:hover {
+    background-color: #9333ea; /* Tailwind purple-600 */
+}
+
+/* Keyframes for fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

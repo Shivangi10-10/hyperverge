@@ -1,0 +1,93 @@
+.steps-tracker {
+    background: linear-gradient(135deg, #000000 0%, #2E2E2E 100%);
+    border-radius: 20px;
+    padding: 20px;
+    width: 400px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    color: white;
+    position: relative;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.notion-icon {
+    font-size: 60px;
+    color: white;
+    margin-top: 20px;
+}
+
+.notion-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.input-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.input-field {
+    border: 1px solid #d1d5db;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    font-size: 1rem;
+}
+
+.add-button {
+    background-color: white;
+    color: black;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-left: 10px;
+}
+
+.add-button:hover {
+    background-color: #2563eb;
+}
+
+.steps-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow-y: auto;
+    max-height: 100px; /* Adjust based on your needs */
+}
+
+.step-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid #d1d5db;
+    border-radius: 0.5rem;
+    margin-bottom: 5px;
+}
+
+.total-steps {
+    margin-top: 1rem;
+}
+
+.progress-bar {
+    margin-top: 1rem;
+}
